@@ -1,20 +1,16 @@
-<!--
-**abhijithvijayan/abhijithvijayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="700" src="code.gif">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hey there 👋,
-
-I create and maintain open source packages mainly for node.js and web development. I have a passion for learning and sharing my knowledge with others as public as possible.  You can see a full list of what I am up to on [abhijithvijayan.in](https://abhijithvijayan.in). If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/abhijithvijayan), give me a shout out [@_abhijithv](https://twitter.com/_abhijithv), or give some ♥ on [paypal](https://www.paypal.me/iamabhijithvijayan).
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhijithvijayan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+<p align="center">
+  <a href="https://twitter.com/_abhijithv" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/iamabhijithvijayan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  </a>
+  </a>
+  <a href="https://medium.com/@abhijithvijayan" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+</p>
