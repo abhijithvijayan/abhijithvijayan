@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="650" src="https://github.com/abhijithvijayan/abhijithvijayan/blob/master/code.gif?raw=true" alt="Hey I'm abhijithvijayan">
+  <img width="635" src="https://github.com/abhijithvijayan/abhijithvijayan/blob/master/code.gif?raw=true" alt="Hey I'm abhijithvijayan">
 </p>
 
 <p align="center">
