@@ -4,7 +4,7 @@ I'm someone who is passionate about **Open Source** and likes to **write code**.
 
 I mostly write **JavaScript/TypeScript** these days. See my _pinned repositories_ below.
 
-I [maintain](https://www.npmjs.com/~abhijithvijayan) a handful of node modules, including some popular **WebExtensions**. I also contribute to [Kutt.it](https://github.com/thedevs-network/kutt/) and various other open source projects through this voluntary work.
+I [maintain](https://www.npmjs.com/~abhijithvijayan) a handful of node modules, including some popular **WebExtensions**. I also contribute to [Kutt.it](https://github.com/thedevs-network/kutt-extension) and various other open source projects through this voluntary work.
 
 I sometimes write [blog](https://abhijithvijayan.in/synapse) posts and occasionally [tweet](https://abhijithvijayan.in/twitter) about stuff. Feel free to reach me on [LinkedIn](https://abhijithvijayan.in/linkedin) about **job-related** matters.
 
