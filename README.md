@@ -8,7 +8,7 @@ I [maintain](https://www.npmjs.com/~abhijithvijayan) a handful of node modules a
 
 I sometimes write [blog](https://abhijithvijayan.in/synapse) posts and occasionally [tweet](https://abhijithvijayan.in/twitter) about stuff. Feel free to reach me on [LinkedIn](https://abhijithvijayan.in/linkedin) about **job-related** matters.
 
-If you want to support my work, consider [becoming a patron](https://abhijithvijayan.in/patreon) on **Patreon** or [buying me coffee(s)](https://abhijithvijayan.in/buymeacoffee). Unfortunately, GitHub Sponsors is not _supported_ in my region.
+If you want to support my work, consider [sponsoring on GitHub](https://github.com/sponsors/abhijithvijayan) or [becoming a patron](https://abhijithvijayan.in/patreon) on **Patreon** or [buying me coffee(s)](https://abhijithvijayan.in/buymeacoffee).
 
 ~ [_abhijithvijayan.in_](https://abhijithvijayan.in/)
 
