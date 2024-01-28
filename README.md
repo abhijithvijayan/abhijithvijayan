@@ -6,21 +6,21 @@ I mostly write **JavaScript/TypeScript** these days. See my _pinned repositories
 
 I [maintain](https://www.npmjs.com/~abhijithvijayan) a handful of node modules and a few other popular **WebExtensions**. I also contribute to [Kutt.it](https://github.com/thedevs-network/kutt-extension) and various other open source projects through this voluntary work.
 
-I sometimes write [blog](https://abhijithvijayan.in/synapse) posts and occasionally [tweet](https://abhijithvijayan.in/twitter) about stuff. Feel free to reach me on [LinkedIn](https://abhijithvijayan.in/linkedin) about **job-related** matters.
+I sometimes write [blog](https://r.abhijithvijayan.in/synapse) posts and occasionally [tweet](https://r.abhijithvijayan.in/twitter) about stuff. Feel free to reach me on [LinkedIn](https://r.abhijithvijayan.in/linkedin) about **job-related** matters.
 
-If you want to support my work, consider [sponsoring on GitHub](https://github.com/sponsors/abhijithvijayan) or [becoming a patron](https://abhijithvijayan.in/patreon) on **Patreon** or [buying me coffee(s)](https://abhijithvijayan.in/buymeacoffee).
+If you want to support my work, consider [sponsoring on GitHub](https://github.com/sponsors/abhijithvijayan) or [becoming a patron](https://r.abhijithvijayan.in/patreon) on **Patreon** or [buying me coffee(s)](https://r.abhijithvijayan.in/buymeacoffee).
 
 ~ [_abhijithvijayan.in_](https://abhijithvijayan.in/)
 
 <p align="center">
-  <a href="https://abhijithvijayan.in/twitter" target="_blank">
+  <a href="https://r.abhijithvijayan.in/twitter" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a>
-  <a href="https://abhijithvijayan.in/linkedin" target="_blank">
+  <a href="https://r.abhijithvijayan.in/linkedin" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
   </a>
-  <a href="https://abhijithvijayan.in/synapse" target="_blank">
+  <a href="https://r.abhijithvijayan.in/synapse" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
   <a href="https://rzp.io/l/abhijithvijayan" target="_blank">
