@@ -23,4 +23,7 @@ If you want to support my work, consider [sponsoring on GitHub](https://github.c
   <a href="https://abhijithvijayan.in/synapse" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
   </a>
+  <a href="https://rzp.io/l/abhijithvijayan" target="_blank">
+    <img src="https://img.shields.io/badge/donate-now%2312100E.svg?&style=for-the-badge&logoColor=white&color=071A2C&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKMAAACjCAMAAADRsl6yAAAAM1BMVEVAAAAHJVQHJVUHJlMHJlQHJlUIJlQHJ1QHJ1UIJ1QzlP80lP8ylf8zlf80lf8zlv80lv+kX2KfAAAAAXRSTlMAQObYZgAAAhNJREFUeNrt29tuwjAQhOEUhh5SBvr+T9uLSpU4JDg2eP9Em0u48Ked9QFHDEM+tY/NF66BaL4QbjTe6PUQzRdyjXyiTTfaeKPxRq+QaL4QZzTe6LUSzReSjHyiTTfaeKPxRq+eaL4QYDTe6G0QzRfGGo03Gk8cjTfadKM3RjRfGGI03ugtEs0X9jYabzSeaOONxhu9aaL5wk5G443ePtF84euNJYbzgDeGX+kVBQk3Aq5Gi2YDesowbpiLBo81/hSNHWscS0amRj3gjRXzKpZINC67g4yIunIJ7WkcaMayAVnGiy9FjPpSqD2wjFdE8aK+FooX9S2RZrwj1AEV9XCPyGrHu8J/4wkQ9cUn77oxAtpxoojSByXqSSGnHWeIkKjnhETjFJFjlKaMJ4pR00YIUaIbNUtEGDVvPMYTpQfG+DJOE3cQo/SwjNFGFRhjiRLeWEaMNEp045tKjWHEx8LoI/hXATE4ammBMeRqVFpkjCij8EYtJfY3SvQySnTj5yJiyH2ZVFPGnkapzkgmdjeqmtjNqHrjuY9RajCSiT2NaiP2MKrR+PpzmdRqfHUZ9w3ETu8xpfYyrsFIJqYx2zGj3mrU8+eyUyvxPdsx2zGj7mbcZTs+03jMdszV0bbHLGNuhD2N3xl1E/GQ7fhM45jtmO3498/c/JmQRswR/JxlzHNZrjy5EeZGmO2YqyP7bUKd6xeGiGDwAQJFqwAAAABJRU5ErkJggg==" alt="Donate Now"/>
+  </a>
 </p>
